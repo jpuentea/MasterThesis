@@ -6,3 +6,4 @@ In this repository we can find the different scripts used for the development of
 - `GetAdvertiserInfoFromFBPage.py`: Is a Python script that allows to obtain information from the advertiser's Facebook page. We automatically obtain the external website of the advertiser, its Facebook categories as well as the information present in the sections Mission, About, Company Overview and Products.
 - `GetAdvertiserInfoFromExternalPage.py`: Is a Python script that allows to obtain extra information from the advertiser's official web page. We obtain information present in the web page's metadata such as the title, the keywords and the description. 
 - `ObtainInterests.py`: Is a Python script that allows to detect the interests assigned to an user and the explanation offered by Facebook to justify this inference.
+- `ObtainInterests.py`: Is the R script used to analysed the data obtained from the different fake accounts.
