@@ -392,4 +392,4 @@ for profile in profiles:
     print(usersite)
 
     browsingActivity()
-    #AdsDetection()
+    AdsDetection()
